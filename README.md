@@ -124,7 +124,8 @@ pip install -r requirements.txt
 
 ## 数据目录说明
 
-- `data/`: 存储原始数据和中间计算结果
+- `data/`: 存储原始数据和中间计算结果（因文件过大需要从链接下载数据，链接: https://pan.baidu.com/s/1A1qsLVuMPD3ygamXRyhBvA?pwd=3fss 提取码: 3fss）
+
 - `factor_results/`: 存储因子计算结果和分析报告
 - `ic_results/`: 存储IC分析结果和相关图表
 
